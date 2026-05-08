@@ -1,13 +1,13 @@
-# Bolt Food Weather Operations Alert System ⚡🌦️
+# Bolt Food Weather Operations Alert System
 
 An automated, highly-scalable weather intelligence pipeline built on **n8n** and **Python** designed for operations managers to anticipate supply drops or delivery delays.
 
-## Quick Start (Docker)
+## Quick Start
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shumal-web/bolt-weather-alear-automation.git
-   cd bolt-weather-automation
+   git clone https://github.com/shumal-web/bolt-weather-alert-automation.git
+   cd bolt-weather-alert-automation
    ```
 
 2. **Set up Environment Variables:**
